@@ -1,0 +1,15 @@
+span {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+  font-size: 2em;
+  color: grey;
+}
+
+body {
+  background-color: rgb(210, 164, 240);
+}
